@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update User by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48218e41-c8ad-42ba-a28d-e4de497a8a18</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b615894-b67e-4eb3-b8de-a09ac634829e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1dbb9ee7-5f12-4ac4-a3dc-160cf687b0ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccb57e88-5145-43ba-a686-7a6b3b99f8e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b615894-b67e-4eb3-b8de-a09ac634829e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1dbb9ee7-5f12-4ac4-a3dc-160cf687b0ed</id>
+      <masked>false</masked>
+      <name>NAMA</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccb57e88-5145-43ba-a686-7a6b3b99f8e7</id>
+      <masked>false</masked>
+      <name>ROLE</name>
+   </variable>
+</TestCaseEntity>

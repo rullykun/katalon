@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get User by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>142aac53-2afc-4eae-b123-b02851b186d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f09b58a-8e64-4acc-bd33-700a6983514f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f09b58a-8e64-4acc-bd33-700a6983514f</id>
+      <masked>false</masked>
+      <name>iduser</name>
+   </variable>
+</TestCaseEntity>
